@@ -1,0 +1,24 @@
+
+.group {
+    padding: 10px;
+    margin-bottom: 6px;
+    border-radius: 6px;
+}
+#loading {
+    display: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+.title-ga{
+    border-radius: 6px;
+}
+body{
+    background-color: #f5faff;
+}
+.header-group{
+    background: #ffe7ea;
+    padding: 6px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
