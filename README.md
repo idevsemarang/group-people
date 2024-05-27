@@ -1,4 +1,4 @@
-# CSV Grouping App
+# CSV Grouping People App
 
 This is a simple web application that allows you to upload a CSV file containing names and codes, randomly group them, and display the groups with the specified group size.
 
