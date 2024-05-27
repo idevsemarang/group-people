@@ -74,7 +74,8 @@ function displayGroups(groups) {
         const groupCard = document.createElement('div');
         groupCard.className = 'bg-white group shadow';
         groupDiv.appendChild(groupCard);
-        const groupHeader = document.createElement('h3');
+        const groupHeader = document.createElement('div');
+        groupHeader.className = 'header-group';
         groupHeader.textContent = `Group ${index + 1}`;
         groupCard.appendChild(groupHeader);
         const groupList = document.createElement('ul');

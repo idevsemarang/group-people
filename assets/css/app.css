@@ -16,6 +16,7 @@ body{
     background-color: #f5faff;
 }
 .header-group{
+    border-left: 4px solid #dc3545;
     background: #ffe7ea;
     padding: 6px;
     font-size: 20px;
